@@ -5,7 +5,7 @@ Este repositório contém exemplos práticos dos seguintes padrões de projeto:
 
 ---
 
-## 🟣 Bridge — Exemplo: *Controle Remoto e Dispositivo*
+## 🟣 Bridge — Exemplo: *Veículo e Combustível*
 
 O padrão **Bridge** serve para **separar uma abstração da sua implementação**, permitindo que ambas evoluam de forma independente.
 
